@@ -8,7 +8,7 @@
 
 ---
 
-## 👋 About Me
+##  About Me
 
 I'm **Hemanth Gavini**, an MSc Data Science graduate from **Coventry University** with a strong passion for turning raw data into actionable insights. My most notable project — **NHS Health Expenditure Forecasting** — achieved **95% forecasting accuracy** across 100K+ healthcare records. I'm actively seeking **Data Analyst roles in the UK** and am fully eligible to work here.
 
@@ -47,7 +47,7 @@ I'm **Hemanth Gavini**, an MSc Data Science graduate from **Coventry University*
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hemanth-Gavini&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -60,7 +60,7 @@ I'm **Hemanth Gavini**, an MSc Data Science graduate from **Coventry University*
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Hemanth-Gavini&theme=darkhub&no-frame=true&row=1&column=6" />
@@ -68,18 +68,18 @@ I'm **Hemanth Gavini**, an MSc Data Science graduate from **Coventry University*
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Tech | Highlight |
 |---|---|---|
-| [🏥 NHS Health Expenditure Forecasting](https://github.com/Hemanth-Gavini/NHS-Health-Expenditure-Forecasting) | Python, SQL, Power BI | 95% accuracy, 100K+ records |
-| [✈️ Airline Fare Optimization ML](https://github.com/Hemanth-Gavini/Airline-Fare-Optimization-ML) | Python, ML, Regression | 90% accuracy, 200K+ records |
-| [🍽️ Zomato Customer Analytics](https://github.com/Hemanth-Gavini/Zomato-Customer-Analytics) | Python, Tableau, EDA | 50K+ transactions analyzed |
-| [📦 Amazon Sales Analytics](https://github.com/Hemanth-Gavini/amazon-realtime-sales-analytics) | Python, MySQL, Power BI | Real-time pipeline |
+| [ NHS Health Expenditure Forecasting](https://github.com/Hemanth-Gavini/NHS-Health-Expenditure-Forecasting) | Python, SQL, Power BI | 95% accuracy, 100K+ records |
+| [ Airline Fare Optimization ML](https://github.com/Hemanth-Gavini/Airline-Fare-Optimization-ML) | Python, ML, Regression | 90% accuracy, 200K+ records |
+| [ Zomato Customer Analytics](https://github.com/Hemanth-Gavini/Zomato-Customer-Analytics) | Python, Tableau, EDA | 50K+ transactions analyzed |
+| [ Amazon Sales Analytics](https://github.com/Hemanth-Gavini/amazon-realtime-sales-analytics) | Python, MySQL, Power BI | Real-time pipeline |
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/hemanthgavini">
@@ -94,5 +94,5 @@ I'm **Hemanth Gavini**, an MSc Data Science graduate from **Coventry University*
 </p>
 
 <p align="center">
-  💼 <strong>Open to Data Analyst roles in the UK — let's connect!</strong>
+   <strong>Open to Data Analyst roles in the UK — let's connect!</strong>
 </p>
