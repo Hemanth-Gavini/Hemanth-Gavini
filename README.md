@@ -10,9 +10,9 @@
 
 ##  About Me
 
-I'm **Hemanth Gavini**, an MSc Data Science graduate from **Coventry University** with a strong passion for turning raw data into actionable insights. My most notable project — **NHS Health Expenditure Forecasting** — achieved **95% forecasting accuracy** across 100K+ healthcare records. I'm actively seeking **Data Analyst roles in the UK** and am fully eligible to work here.
+I'm **Hemanth Gavini**, an MSc Data Science graduate from **Coventry University** with a strong passion for turning raw data into actionable insights. My most notable project - **NHS Health Expenditure Forecasting** - achieved **95% forecasting accuracy** across 100K+ healthcare records. I'm actively seeking **Data Analyst roles in the UK** and am fully eligible to work here.
 
--  MSc Data Science — Coventry University (2025)
+-  MSc Data Science - Coventry University (2025)
 -  Built 4 end-to-end data projects from scratch
 -  NHS healthcare forecasting model with 95% accuracy
 -  Fully eligible to work in the UK
